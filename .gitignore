@@ -75,3 +75,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Lifemancer/Intermediate/
+Lifemancer/Content/2DSideScroller/Sprites/IdleFrames/IdleCycle2.uasset
+Lifemancer/Content/2DSideScroller/
+Lifemancer/Saved/Config/
